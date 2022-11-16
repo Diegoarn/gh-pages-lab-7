@@ -1,0 +1,61 @@
+body {
+  padding-top: 20px;
+  padding-left: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+} 
+
+ h1 {
+  padding: 6px;
+  font-family: Helvetica;
+  display: flex;
+  color: rgb(224, 224, 224);
+  border: 1px solid rgb(4, 51, 112);
+  width: 15%;
+  justify-content: center;
+  background-color: rgb(141, 141, 230);
+}
+
+.container {
+  padding-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.target-container {
+  padding: 3px;
+  display: flex;
+  margin: 10px;
+  justify-content: space-between;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 3px;
+  background-color: rgb(211, 224, 230);
+  width: 360px;
+}
+
+input {
+  font-size: 18px;
+  padding: 6px;
+}
+
+.button {
+  color: beige;
+  font-size: 18px;
+  padding: 6px;
+  background-color: rgb(155, 161, 185);
+  cursor: pointer;
+  margin: 20px;
+}
+
+.selector {
+  margin-bottom: 40px;
+}
+.member-list {
+  padding: 10px;
+}
+Button {
+  cursor: pointer;
+}
+
+img {
+  width: 6rem;
+} 
